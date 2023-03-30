@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b36e6d79.css",
+    "main.js": "/static/js/main.5855c407.js",
+    "static/media/limitless_prototype.png": "/static/media/limitless_prototype.c8c9805e52df15c008b9.png",
+    "static/media/prime_prototype.png": "/static/media/prime_prototype.7ffe04b8b2f3e9f6eb06.png",
+    "static/media/cube.png": "/static/media/cube.64bbee51007fa12cad22.png",
+    "static/media/Brandon_Lam_Resume.pdf": "/static/media/Brandon_Lam_Resume.5ba5508144bc55691b83.pdf",
+    "index.html": "/index.html",
+    "main.b36e6d79.css.map": "/static/css/main.b36e6d79.css.map",
+    "main.5855c407.js.map": "/static/js/main.5855c407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36e6d79.css",
+    "static/js/main.5855c407.js"
+  ]
+}
