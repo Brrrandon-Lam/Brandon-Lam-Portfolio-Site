@@ -1,0 +1,5 @@
+.about__container {
+    display: grid;
+    gap: 15%;
+    padding: 0rem 15rem;
+}
